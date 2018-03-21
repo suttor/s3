@@ -42,12 +42,21 @@ body {
 }
 
 .article {
+        width: 70%;
+        margin: auto;
 }
 .article figure {
+    margin-left: 0;
 }
 .article figure img {
+    width: 90%;
+    height: 90%; 
+
 }
 .article figure figcaption {
+    margin-left: -12em;
+    width: 11.5em;
+    float:left;
 }
 
 #map {
